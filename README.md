@@ -42,7 +42,7 @@ To get access to the dataset and train your own model, use the following Google 
 **Flowers Dataset:** [Google Drive Link](https://drive.google.com/file/d/1t5GSDLMkNZkoc9hdUvacuyDTEzg4FPYY/view?usp=share_link)  
 
 **Steps to run the training script:**    
-1. Download the Flowers dataset in the directory "flowers". If you ware saving the dataset in a different directory, it must be specified in the command line arguments.    
+1. Download the Flowers dataset in the directory "flowers". If you are saving the dataset in a different directory, it must be specified in the command line arguments.    
 2. Enable your system GPU and run the following command in terminal: `python train.py --gpu`.  
 3. Alternatively, you can also set optional arguments via the command line, i.e:  
 * `python train.py <data_dir>`  
